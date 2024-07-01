@@ -1,4 +1,4 @@
-## Summarize the project and what problem it was solving.
+### Summarize the project and what problem it was solving.
 
 This project is a clock program that allows users to increment time by hours, minutes or seconds. The primary problem it solves is providing an interference for users to view and adjust a 12- hours and 24- hours clock format
 
@@ -23,7 +23,7 @@ Referred to C++ documentation for understanding formatted output functions.
 Utilized features in IDEs for debugging and step by step execution to understand the flow and catch errors.
 
 ### What skills from this project will be particularly transferable to other projects or course work?
-How did you make this program maintainable, readable, and adaptable?
+#### How did you make this program maintainable, readable, and adaptable?
 
 Skills transferable to other projects would be Modular Programming: breaking down tasks into smaller, manageable functions; a skill that applies to any project.
 Input Handling and validation: Ensuring user inputs are validated and handles appropriately
